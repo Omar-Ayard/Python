@@ -1,0 +1,28 @@
+{
+    "transactions": [
+        {
+            "Trans": 1,
+            "Date": "30/07/19",
+            "Hour": "02:39:00",
+            "Operation": 0
+        },
+        {
+            "Trans": 2,
+            "Date": "30/07/19",
+            "Hour": "02:39:00",
+            "Operation": 1
+        },
+        {
+            "Trans": 3,
+            "Date": "30/07/19",
+            "Hour": "02:39:00",
+            "Operation": 2
+        },
+        {
+            "Trans": 4,
+            "Date": "30/07/19",
+            "Hour": "02:39:00",
+            "Operation": 3
+        }
+    ]
+}
